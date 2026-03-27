@@ -2,7 +2,7 @@
 
 Este proyecto fue desarrollado como **Trabajo Práctico** para la materia **Paradigmas de Programación**, representando una evolución en el uso de TypeScript y la organización del código.
 
-📅 Fecha: 11/11/2025
+Fecha: 11/11/2025
 
 ## Descripción
 Aplicación de consola que permite gestionar tareas mediante un menú interactivo. El sistema permite crear, buscar, visualizar y editar tareas.
